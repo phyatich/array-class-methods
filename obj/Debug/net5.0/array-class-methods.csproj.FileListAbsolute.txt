@@ -1,0 +1,15 @@
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/bin/Debug/net5.0/array-class-methods.deps.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/bin/Debug/net5.0/array-class-methods.runtimeconfig.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/bin/Debug/net5.0/array-class-methods.runtimeconfig.dev.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/bin/Debug/net5.0/array-class-methods.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/bin/Debug/net5.0/ref/array-class-methods.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/bin/Debug/net5.0/array-class-methods.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/obj/Debug/net5.0/array-class-methods.csproj.AssemblyReference.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/obj/Debug/net5.0/array-class-methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/obj/Debug/net5.0/array-class-methods.AssemblyInfoInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/obj/Debug/net5.0/array-class-methods.AssemblyInfo.cs
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/obj/Debug/net5.0/array-class-methods.csproj.CoreCompileInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/obj/Debug/net5.0/array-class-methods.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/obj/Debug/net5.0/ref/array-class-methods.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/obj/Debug/net5.0/array-class-methods.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/array-class-methods/obj/Debug/net5.0/array-class-methods.genruntimeconfig.cache
